@@ -4,6 +4,13 @@
 
 I,m Avazbek from Uzbekistan, I really enjoy learning languages and frameworks like React and NodeJs, as well as work in wordPress. I also enjoy wireframig, UI, UX and designin general, handle errors and create awsome logics.
 
+## Skills and Experience
+*   MongoDB
+*   Express
+* ❄️ReactJs
+* 🔥NodeJS
+*  💻 HTML, CSS, JS
+
 Skills: REACT / JS / HTML / CSS / NODEJS / MONGODB / MONGOOSE / PHP
 
 - 🔭 I’m currently working on My own project 
