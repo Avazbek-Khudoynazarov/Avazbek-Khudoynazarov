@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Avazbek (Danny)
 
-https://raw.githubusercontent.com/<username>/<repository>/<branch>/<path-to-image>
+![github-header-image](https://raw.githubusercontent.com/<username>/<repository>/<branch>/<path-to-image>)
 
 ## 👨‍💻 About Me
 
