@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Avazbek (Danny)
 
-![github-header-image](https://github.com/Avazbek-Khudoynazarov/Avazbek-Khudoynazarov/assets/121384262/0e650362-4227-4d35-ae68-0ebadc49d8ab)
+![github-header-image](https://via.placeholder.com/1200x400?text=Welcome+to+Avazbek's+GitHub+Profile+%F0%9F%91%8B)
 
 ## 👨‍💻 About Me
 
@@ -62,4 +62,4 @@ I’m currently working on the **Graphytoon Project**, where I combine creativit
 
 ---
 
-Let me know if you'd like to add any additional sections or animations!
+Let me know if you'd like more customizations!
