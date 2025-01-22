@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Avazbek (Danny)
 
-![github-header-image](https://via.placeholder.com/1200x400?text=Welcome+to+Avazbek's+GitHub+Profile+%F0%9F%91%8B)
+![github-header-image](https://raw.githubusercontent.com/Avazbek-Khudoynazarov/MyRepo/main/assets/github-header-image.png)
 
 ## 👨‍💻 About Me
 
